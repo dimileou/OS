@@ -1,0 +1,10 @@
+..
+outut
+output
+ls.txt
+.
+..
+outut
+output
+ls.txt
+.
